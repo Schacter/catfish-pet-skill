@@ -1,0 +1,4 @@
+interface:
+  display_name: "Catfish Pet"
+  short_description: "Install and recreate the 猫猫鱼 Codex pixel pet"
+  default_prompt: "Install the 猫猫鱼 Codex pet and verify its v2 spritesheet."
